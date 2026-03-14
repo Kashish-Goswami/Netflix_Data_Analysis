@@ -24,4 +24,7 @@ Netflix Movies and TV Shows Dataset
 - Netflix content increased rapidly after 2016
 
 ## Author
-Kashish Goswami
+**Kashish Goswami**
+
+Aspiring Data Analyst  
+Learning Python, SQL, and Data Visualization
